@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://ebuka:ebuka@contactcluster.4wk8d.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
