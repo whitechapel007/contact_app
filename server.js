@@ -9,7 +9,7 @@ app.use(express.json({ extended: false }));
 
 //connection to mongo db
 
-connectDB();
+// connectDB();
 
 app.get("/", (req, res) =>
   res.json({ msg: "Welcome to the ContactKeeper API.. " })
